@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alveena Khan</h1>
 <h3 align="center">A passionate a data science enthusiast with a strong foundation in mathematics and statistics.</h3>
-<image align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.telkomuniversity.ac.id%2Fdata-science-overview-mengenal-pengertian-serta-tahapannya%2F&psig=AOvVaw1fxyjldKeGxeJiJL2AZU4v&ust=1729844031424000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCF59PJpokDFQAAAAAdAAAAABAR">
+<image align="right" alt="coding" width="400" src="https://b1816348.smushcdn.com/1816348/wp-content/uploads/2023/01/Data-Science-1.png?lossy=2&strip=1&webp=1">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alveenakhan784784&label=Profile%20views&color=0e75b6&style=flat" alt="alveenakhan784784" /> </p>
 
 - 🌱 I’m currently learning **advanced techniques in data science to further enhance my expertise and stay updated with industry trends.**
