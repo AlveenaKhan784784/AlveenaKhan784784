@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **advanced techniques in data analysis to enhance my expertise in extracting actionable insights from data and stay updated with industry trends.**
 
-- 👨‍💻 All of my projects are available at [My Portfolio on GitHub](https://github.com/AlveenaKhan784784/AlveenaKhan_DataAnalyticsPortfolio.)
+- 👨‍💻 Some of my projects are available at [My Portfolio on GitHub](https://github.com/AlveenaKhan784784/AlveenaKhan_DataAnalyticsPortfolio.)
 
 - 📫 How to reach me: **alveenakhan853@gmail.com**
 
